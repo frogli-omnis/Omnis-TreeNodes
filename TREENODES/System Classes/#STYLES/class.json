@@ -1,0 +1,173 @@
+{
+	"classtype": "kSystemtable",
+	"internalversion": 1,
+	"nextident": 4,
+	"properties": {
+		"componenttype": "kCompStoreHidden",
+		"createdate": "1999-02-02 18:16:30",
+		"desc": "",
+		"external": false,
+		"moddate": "2017-12-07 09:59:55",
+		"showascheckedout": false,
+		"userinfo": "",
+		"version": ""
+	},
+	"styles": [
+		{
+			"name": "OMNISlist",
+			"ident": 1,
+			"properties": {
+				"desc": "Standard List",
+				"hasalign": false,
+				"hasbackcolor": false,
+				"hasbackgroundtheme": false,
+				"hasbackpattern": false,
+				"hasbordercolor": false,
+				"haseffect": false,
+				"hasfontname": true,
+				"hasfontsize": true,
+				"hasfontstyle": false,
+				"hasforecolor": false,
+				"hastextcolor": false
+			},
+			"platforms": [
+				{
+					"name": "kMSWindows",
+					"properties": {
+						"align": "kLeftJst",
+						"backcolor": "RGB(0,0,0)",
+						"backgroundtheme": "kBGThemeNone",
+						"backpattern": 0,
+						"bordercolor": "RGB(0,0,0)",
+						"effect": "kBorderNone",
+						"fontname": "Helv",
+						"fontsize": 8,
+						"fontstyle": "kPlain",
+						"forecolor": "RGB(0,0,0)",
+						"textcolor": "RGB(0,0,0)"
+					}
+				},
+				{
+					"name": "kJavaScript",
+					"properties": {
+						"align": "kLeftJst",
+						"backcolor": "RGB(0,0,0)",
+						"backgroundtheme": "kBGThemeNone",
+						"backpattern": 0,
+						"bordercolor": "RGB(0,0,0)",
+						"effect": "kBorderNone",
+						"fontname": "Helv",
+						"fontsize": 8,
+						"fontstyle": "kPlain",
+						"forecolor": "RGB(0,0,0)",
+						"textcolor": "RGB(0,0,0)"
+					}
+				}
+			]
+		},
+		{
+			"name": "OMNISfield",
+			"ident": 2,
+			"properties": {
+				"desc": "Standard Field",
+				"hasalign": false,
+				"hasbackcolor": false,
+				"hasbackgroundtheme": false,
+				"hasbackpattern": false,
+				"hasbordercolor": false,
+				"haseffect": false,
+				"hasfontname": true,
+				"hasfontsize": true,
+				"hasfontstyle": false,
+				"hasforecolor": false,
+				"hastextcolor": false
+			},
+			"platforms": [
+				{
+					"name": "kMSWindows",
+					"properties": {
+						"align": "kLeftJst",
+						"backcolor": "RGB(0,0,0)",
+						"backgroundtheme": "kBGThemeNone",
+						"backpattern": 0,
+						"bordercolor": "RGB(0,0,0)",
+						"effect": "kBorderNone",
+						"fontname": "Helv",
+						"fontsize": 8,
+						"fontstyle": "kPlain",
+						"forecolor": "RGB(0,0,0)",
+						"textcolor": "RGB(0,0,0)"
+					}
+				},
+				{
+					"name": "kJavaScript",
+					"properties": {
+						"align": "kLeftJst",
+						"backcolor": "RGB(0,0,0)",
+						"backgroundtheme": "kBGThemeNone",
+						"backpattern": 0,
+						"bordercolor": "RGB(0,0,0)",
+						"effect": "kBorderNone",
+						"fontname": "Helv",
+						"fontsize": 8,
+						"fontstyle": "kPlain",
+						"forecolor": "RGB(0,0,0)",
+						"textcolor": "RGB(0,0,0)"
+					}
+				}
+			]
+		},
+		{
+			"name": "OMNISbutton",
+			"ident": 3,
+			"properties": {
+				"desc": "Standard Pushbutton",
+				"hasalign": false,
+				"hasbackcolor": false,
+				"hasbackgroundtheme": false,
+				"hasbackpattern": false,
+				"hasbordercolor": false,
+				"haseffect": false,
+				"hasfontname": true,
+				"hasfontsize": true,
+				"hasfontstyle": true,
+				"hasforecolor": false,
+				"hastextcolor": false
+			},
+			"platforms": [
+				{
+					"name": "kMSWindows",
+					"properties": {
+						"align": "kLeftJst",
+						"backcolor": "RGB(0,0,0)",
+						"backgroundtheme": "kBGThemeNone",
+						"backpattern": 0,
+						"bordercolor": "RGB(0,0,0)",
+						"effect": "kBorderNone",
+						"fontname": "Helv",
+						"fontsize": 8,
+						"fontstyle": "kPlain",
+						"forecolor": "RGB(0,0,0)",
+						"textcolor": "RGB(0,0,0)"
+					}
+				},
+				{
+					"name": "kJavaScript",
+					"properties": {
+						"align": "kLeftJst",
+						"backcolor": "RGB(0,0,0)",
+						"backgroundtheme": "kBGThemeNone",
+						"backpattern": 0,
+						"bordercolor": "RGB(0,0,0)",
+						"effect": "kBorderNone",
+						"fontname": "Helv",
+						"fontsize": 8,
+						"fontstyle": "kPlain",
+						"forecolor": "RGB(0,0,0)",
+						"textcolor": "RGB(0,0,0)"
+					}
+				}
+			]
+		}
+	]
+}

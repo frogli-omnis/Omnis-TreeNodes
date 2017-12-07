@@ -1,0 +1,13 @@
+On evClick
+	Do cl_NodeList.$clear()
+	;  Breakpoint
+	
+	Do $cfield.$currentnode() Returns li_Ref
+	Do li_Ref.$nodeparent() Returns li_Parent
+	Do $cfield.$nextnode(li_Parent,kTrue) Returns li_Child
+	While li_Child
+		Do cl_NodeList.$add(li_Child.$name)
+		Do $cfield.$nextnode(li_Child) Returns li_Child
+	End While
+	
+	Redraw {wTreeNodes_1017}

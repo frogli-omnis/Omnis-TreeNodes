@@ -1,0 +1,30 @@
+{
+	"ident": 1019,
+	"order": 16386,
+	"objtype": "kText",
+	"properties": {
+		"align": "kLeftJst",
+		"backcolor": "kColorBackFill",
+		"backpattern": 15,
+		"designactive": true,
+		"edgefloat": "kEFnone",
+		"fieldstyle": "OMNISfield",
+		"font": 5,
+		"fontsize": 8,
+		"fontstyle": "kPlain",
+		"forecolor": "kColorForeFill",
+		"height": 31,
+		"left": 24,
+		"objlink": 0,
+		"text": {
+			"type": 14,
+			"calc": "Click on a child node. The list on the right will display all children within that same parent."
+		},
+		"textcolor": "kColorWindowText",
+		"top": 42,
+		"userinfo": "",
+		"vertcentertext": false,
+		"visible": true,
+		"width": 349
+	}
+}

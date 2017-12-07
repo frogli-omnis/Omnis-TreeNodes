@@ -1,0 +1,2 @@
+Do $cfield.$expand()
+Do cl_NodeList.$define(cl_Node)

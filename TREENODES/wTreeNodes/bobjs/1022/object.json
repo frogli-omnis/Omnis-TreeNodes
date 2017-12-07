@@ -1,0 +1,27 @@
+{
+	"ident": 1022,
+	"order": 16387,
+	"objtype": "kLabel",
+	"properties": {
+		"align": "kLeftJst",
+		"backcolor": "kColor3DFace",
+		"backpattern": 1,
+		"designactive": true,
+		"edgefloat": "kEFnone",
+		"fieldstyle": "OMNISfield",
+		"font": 5,
+		"fontsize": 8,
+		"fontstyle": "kBold",
+		"forecolor": "kColorForeFill",
+		"height": 23,
+		"left": 26,
+		"objlink": 0,
+		"text": "Tree list example",
+		"textcolor": "RGB(0,17,0)",
+		"top": 8,
+		"userinfo": "",
+		"vertcentertext": false,
+		"visible": true,
+		"width": 165
+	}
+}
