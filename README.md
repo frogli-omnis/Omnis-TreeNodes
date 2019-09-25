@@ -1,5 +1,5 @@
 # Omnis-TreeNodes
-Library shows how you can list all child nodes under a parent node in a tree list. For more information about this library see the tech note: http://www.omnis.net/technotes/tnno0010.jsp
+Library shows how you can list all child nodes under a parent node in a tree list. For more information about this library see the tech note: https://www.omnis.net/developers/resources/technotes/tnno0010.jsp
 
 Requires Omnis Studio 8.1.2 or above.
 
